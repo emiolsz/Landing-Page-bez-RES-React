@@ -1,0 +1,39 @@
+.footer-container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.footer-section {
+    background: #4e4e4e;
+    padding-top: 30px;
+    padding-bottom: 6px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+    overflow: hidden;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.footer-icons {
+    margin-top: -12px;
+    float: right;
+}
+
+.footer-icons .icon {
+    font-size: 31px;
+    margin-top: -10px;
+    margin-bottom: 0;
+    margin-right: 7px;
+    vertical-align: baseline-middle;
+}
+
+.footer-icons,
+.footer-copyrights {
+    display: block;
+    text-align: center;
+}
+
+.footer-copyrights {
+    text-align: left;
+}

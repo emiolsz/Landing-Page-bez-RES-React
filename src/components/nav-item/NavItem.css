@@ -1,0 +1,20 @@
+.nav-container-list {
+    display: none;
+}
+
+.nav-container-list-item {
+    display: inline-block;
+    margin-right: 46px;
+}
+
+.nav-container-list-item .link {
+    color: #f1f1f1;
+}
+
+.nav-container-list-item:last-child {
+    margin-right: 0;
+}
+
+.nav-container-list-item:last-child .link {
+    cursor: not-allowed;
+}

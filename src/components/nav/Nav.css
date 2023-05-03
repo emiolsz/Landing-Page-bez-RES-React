@@ -1,0 +1,21 @@
+.nav-section {
+    background: #4e4e4e;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.nav-container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.nav-container>.link {
+    display: inline-block;
+}
+
+.nav-container-list {
+    display: block;
+    font-size: 18px;
+    font-weight: 400;
+    float: right;
+}

@@ -1,0 +1,18 @@
+.specialists {
+  background: #f1f1f1;
+}
+
+.specialist-container {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.specialist-container-title {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 36px;
+  color: #152d41;
+  padding-top: 50px;
+  padding-bottom: 80px;
+  text-align: left;
+}

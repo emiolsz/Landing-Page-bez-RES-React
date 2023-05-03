@@ -1,0 +1,17 @@
+.services-section {
+    background: #405d78;
+}
+
+.services-container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.services-container-title {
+    color: #ffffff;
+}
+
+.services-list {
+    text-align: center;
+    padding-bottom: 30px;
+}
